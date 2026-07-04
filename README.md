@@ -1,12 +1,12 @@
 <h1 align="center">Hi 👋, I'm Fxndy</h1>
-<h3 align="center">A passionate frontend developer from Indonesia</h3>
+<h3 align="center">Born to code, forced to turu</h3>
 
 <p align="center"> 
   <img src="https://komarev.com/ghpvc/?username=imagine60hz&label=Profile%20views&color=0e75b6&style=flat" alt="imagine60hz" /> 
 </p>
 
 <p align="center">
-  🌱 I’m currently learning <b>Javascript</b><br>
+  🌱 I’m currently learning <b>Java</b><br>
   ⚡ Fun fact <b>i love matcha lol</b>
 </p>
 
